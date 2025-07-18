@@ -40,9 +40,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔭 Currently Building: Scalable cloud-native applications with Spring Boot & AWS  
+🔭 Currently Building: Scalable applications with Spring Boot 
 
-🌱 Learning Path: Advanced Kubernetes, GraphQL, and Microservices Architecture  
+🌱 Learning Path: Docker , Kubernetes, GraphQL , Restfull , and Microservices Architecture  
 
 💡 Philosophy: "Clean code always looks like it was written by someone who cares"  
 
@@ -54,7 +54,7 @@
 <br>
 
 <div align="center">
-🎨 Frontend Mastery
+🎨 Frontend Skills
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,vue,sass,tailwind,figma&theme=dark" alt="Frontend Skills" />
 </p>
@@ -113,7 +113,7 @@ journey
       GitHub Actions: 4: Me
       Infrastructure as Code: 3: Me
  ```
-🎯 2024 Goals & Achievements
+🎯 2025 Goals & Achievements
 
 <div align="center"> <table> <tr> <th>Goal</th> <th>Status</th> <th>Progress</th> </tr> <tr> <td>🚀 Build a SaaS product with Spring Boot</td> <td>🟡 In Progress</td> <td>10%</td> </tr> <tr> <td>🌍 Contribute to 12 open-source projects</td> <td>🟡 In Progress</td> <td>5%</td>  <tr> <td>📜 Obtain AWS Solutions Architect cert</td> <td>🟡 In Progress</td> <td>10%</td> </tr> <tr> <td>📚 Write 24 technical blog posts</td> <td>🟡 In Progress</td> <td>8%</td> </tr> <tr> <td>🏆 Reach 1K GitHub followers</td> <td>🟡 In Progress</td> <td>4%</td> </tr> </table> </div>
 
