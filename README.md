@@ -95,7 +95,7 @@
 🚀 My Learning Journey
 ```mermaid
 journey
-    title 🎯 My 202 Tech Journey
+    title 🎯 My 2025 Tech Journey
     section Cloud Mastery ☁️
       AWS Solutions Architect: 5: Me
       Kubernetes Deep Dive: 4: Me
