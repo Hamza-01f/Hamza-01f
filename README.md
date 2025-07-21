@@ -19,6 +19,12 @@
     <a href="https://github.com/Hamza-01f">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub" />
     </a>
+      <a href="https://www.instagram.com/h_boumanjel/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" alt="Instagram" />
+    </a>
+    <a href="https://app.docker.com/accounts/hamzaboumanjel">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=30" alt="Docker Hub" />
+    </a>
   </p>
   
   <!-- Profile Stats Counter -->
