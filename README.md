@@ -93,11 +93,6 @@
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-01f&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-🏆 Achievement Gallery
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hamza-01f&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies"/>
-
-
 🚀 My Learning Journey
 ```mermaid
 journey
