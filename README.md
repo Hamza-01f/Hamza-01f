@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamza-01f&label=Profile+Views&color=00ff88&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Hamza-01f?label=Followers&style=for-the-badge&color=00d4ff" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Cloud-Testingblueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Cloud-blueviolet?style=for-the-badge" />
 </p>
 
 <br/>
